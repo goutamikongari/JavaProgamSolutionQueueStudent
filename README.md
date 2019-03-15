@@ -1,5 +1,6 @@
 # JavaProgamSolutionQueueStudent
 /*Question- 
+
 Prog lang: Java
 In this problem, there are types of events: ENTER (a student enters the queue) or SERVED.
 A unique token is assigned to any student entering the queue. The queue serves the students 
